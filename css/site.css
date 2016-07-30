@@ -1,0 +1,9 @@
+body { padding-top:70px; }
+
+@font-face {
+	font-family: 'bukhari-script';
+	src: url("../fonts/bukhari-script.otf");
+}
+.lobsta {
+	font-family: 'Lobster', cursive;
+}
