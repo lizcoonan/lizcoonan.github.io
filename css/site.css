@@ -1,4 +1,6 @@
-body { padding-top:70px; }
+body { padding-top:70px;
+	   background-color: #e6e6e6;
+ }
 
 @font-face {
 	font-family: 'bukhari-script';
@@ -6,4 +8,10 @@ body { padding-top:70px; }
 }
 .lobsta {
 	font-family: 'Lobster', cursive;
+}
+.nav {
+  list-style: none;
+  background-color: none;
+  font-family: 'Dosis', sans-serif;
+  font-size: 1.2em;
 }
