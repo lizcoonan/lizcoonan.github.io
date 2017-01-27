@@ -12,7 +12,7 @@ body { padding-top:70px;
 .nav {
   list-style: none;
   background-color: none;
-  font-family: 'Dosis', sans-serif;
+  font-family: 'Abel', sans-serif;
   font-size: 1.2em;
 }
 
@@ -20,4 +20,9 @@ body { padding-top:70px;
 	background-color: transparent;
 	background: transparent;
 	border-color: transparent;
+}
+p {
+font-family: "Avenir", Book;
+font-size: 16px
+line-height: 0.5;
 }
